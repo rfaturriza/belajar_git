@@ -1,1 +1,1 @@
-ini file b.txt
+ini bukan file a.txt tapi b.txt
